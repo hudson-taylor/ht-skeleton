@@ -1,0 +1,25 @@
+{
+  "name": "ht-skeleton",
+  "version": "0.0.1",
+  "description": "Skeleton Project for Hudson-Taylor",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hudson-taylor/ht-skeleton.git"
+  },
+  "keywords": [
+    "ht",
+    "hudson-taylor",
+    "skeleton",
+    "services"
+  ],
+  "author": "Adam Brady <adam@boxxen.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hudson-taylor/ht-skeleton/issues"
+  },
+  "homepage": "https://github.com/hudson-taylor/ht-skeleton"
+}
